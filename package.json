@@ -1,0 +1,22 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "tutorial to make api using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"this is test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandk174/todo-list-api.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "anandk174",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandk174/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/anandk174/todo-list-api#readme"
+}
